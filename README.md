@@ -35,8 +35,16 @@ This is a library conio.h for linux. Copy file and paste file conio.h on /usr/in
     _ungetch
 
 # Installation for Linux
+Step 1 :
+* Open terminal sudo apt-get update
+* sudo apt-get upgrade
+* sudo apt-get install git --> 
+* git clone https://github.com/zoelabbb/conio.h.git
+* cd conio.h
+
+Step 2 :
 * After you finish download file conio.h
-* Copy file conio.h
+* Copy file conio.h --> !! copy file not folder !!
 * Go to /usr/include/
 * Right click on folder /usr/include/
 * Choose Open as Administrator
