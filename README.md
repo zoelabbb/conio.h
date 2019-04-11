@@ -35,6 +35,7 @@ This is a library conio.h for linux. Copy file and paste file conio.h on /usr/in
     _ungetch
 
 # Installation for Linux
+![Screenshot](Copy & Paste.png)
 Step 1 :
 * Open terminal sudo apt-get update
 * sudo apt-get upgrade
