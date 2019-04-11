@@ -38,7 +38,7 @@ This is a library conio.h for linux. Copy file and paste file conio.h on /usr/in
 Step 1 :
 * Open terminal sudo apt-get update
 * sudo apt-get upgrade
-* sudo apt-get install git --> 
+* sudo apt-get install git
 * git clone https://github.com/zoelabbb/conio.h.git
 * cd conio.h
 
