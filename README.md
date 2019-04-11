@@ -42,6 +42,10 @@ Step 1 :
 * git clone https://github.com/zoelabbb/conio.h.git
 * cd conio.h
 
+
+> ![Copy Paste](https://user-images.githubusercontent.com/49254668/55939379-c5b6f700-5c67-11e9-96d3-01f0e39bce22.png)
+
+
 Step 2 :
 * After you finish download file conio.h
 * Copy file conio.h --> !! copy file not folder !!
