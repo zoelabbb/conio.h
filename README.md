@@ -1,4 +1,4 @@
-# Header <conio.h> for LINUX
+# Library <conio.h> for LINUX
 * Source    : https://raw.githubusercontent.com/ramadhinolfski/cpackets/master/conio.h
 * Telegram  : https://t.me/domicadoesca
 
