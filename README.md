@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/zoelabbb/conio.h/badge.svg?branch=master)](https://coveralls.io/github/zoelabbb/conio.h?branch=master)
+
 # Library <conio.h> for LINUX
 * Source    : https://raw.githubusercontent.com/ramadhinolfski/cpackets/master/conio.h
 * Telegram  : https://t.me/domicadoesca
