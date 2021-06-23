@@ -1,4 +1,4 @@
-# Hi! Welcome :wave::grin:
+# Hi! Welcome
 
 This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/include/` but don't forget before you want copy paste on `/usr/include/` you must open folder as administrator first !!
 
@@ -46,7 +46,7 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 
 ### Step 2 :
 * After you finish download file conio.h
-* Copy file conio.h :point_right: !! copy file not folder !!
+* Copy file conio.h -> !! copy file not folder !!
 * Go to `/usr/include/`
 * Right click on folder `/usr/include/`
 * Choose Open as Administrator
@@ -55,5 +55,5 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 * Done :D
 
 
-## Wanna Support me ? You can buy me some coffee via [PayPal :coffee:](paypal.me/haialipp).
+## Wanna Support me ? You can buy me some coffee via [PayPal](paypal.me/haialipp).
 For more details you can see here [Conio.h Repo](https://github.com/zoelabbb/conio.h).
