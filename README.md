@@ -2,7 +2,7 @@
 
 # Library <conio.h> for LINUX
 * Source    : https://raw.githubusercontent.com/ramadhinolfski/cpackets/master/conio.h
-* Telegram  : https://t.me/domicadoesca
+* Telegram  : https://t.me/fvkmy
 
 This is a library conio.h for linux. Copy file and paste file conio.h on /usr/include/ dont forget before you want copy paste on /usr/include/ you must open folder as administrator first
 
