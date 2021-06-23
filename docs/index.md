@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-This is a library conio.h for linux. Copy file and paste file conio.h on /usr/include/ but don't forget before you want copy paste on /usr/include/ you must open folder as administrator first !!
+This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/include/` but don't forget before you want copy paste on `/usr/include/` you must open folder as administrator first !!
 
-### List Function
+## List Function
     cprintf
     cscanf
     gotoxy          
@@ -33,24 +33,24 @@ This is a library conio.h for linux. Copy file and paste file conio.h on /usr/in
     _ungetch
 
 # Installation for Linux
-Step 1 :
+### Step 1 :
 * Open terminal sudo apt-get update
 * sudo apt-get upgrade
 * sudo apt-get install git
-* git clone https://github.com/zoelabbb/conio.h.git
+* git clone `https://github.com/zoelabbb/conio.h.git`
 * cd conio.h
 
 
 > ![Copy Paste](https://user-images.githubusercontent.com/49254668/55939379-c5b6f700-5c67-11e9-96d3-01f0e39bce22.png)
 
 
-Step 2 :
+### Step 2 :
 * After you finish download file conio.h
 * Copy file conio.h --> !! copy file not folder !!
-* Go to /usr/include/
-* Right click on folder /usr/include/
+* Go to `/usr/include/`
+* Right click on folder `/usr/include/`
 * Choose Open as Administrator
-* Paste file conio.h
+* Paste file `conio.h`
 * Close your IDE and open again
 * Done :D
 
