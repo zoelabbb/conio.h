@@ -37,7 +37,7 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 * Open terminal sudo apt-get update
 * sudo apt-get upgrade
 * sudo apt-get install git
-* git clone `https://github.com/zoelabbb/conio.h.git`
+* git clone `https://github.com/zoelabbb/conio.h.git` or [Git Clone](https://github.com/zoelabbb/conio.h.git)
 * cd conio.h
 
 
@@ -46,7 +46,7 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 
 ### Step 2 :
 * After you finish download file conio.h
-* Copy file conio.h --> !! copy file not folder !!
+* Copy file conio.h :point_right: !! copy file not folder !!
 * Go to `/usr/include/`
 * Right click on folder `/usr/include/`
 * Choose Open as Administrator
@@ -54,23 +54,4 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 * Close your IDE and open again
 * Done :D
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zoelabbb/conio.h/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
