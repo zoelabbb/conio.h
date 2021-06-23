@@ -1,4 +1,4 @@
-# Welcome to GitHub Pages
+# Hi! Welcome :wave::grin:
 
 This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/include/` but don't forget before you want copy paste on `/usr/include/` you must open folder as administrator first !!
 
@@ -37,7 +37,7 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 * Open terminal sudo apt-get update
 * sudo apt-get upgrade
 * sudo apt-get install git
-* git clone `https://github.com/zoelabbb/conio.h.git` or [Git Clone](https://github.com/zoelabbb/conio.h.git)
+* git clone `https://github.com/zoelabbb/conio.h.git`or [Clone here](https://github.com/zoelabbb/conio.h.git)
 * cd conio.h
 
 
@@ -54,4 +54,6 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 * Close your IDE and open again
 * Done :D
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## Wanna Support me ? You can buy me some coffee via [PayPal :coffee:](paypal.me/haialipp).
+For more details you can see here [Conio.h Repo](https://github.com/zoelabbb/conio.h).
