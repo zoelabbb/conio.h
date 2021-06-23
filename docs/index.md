@@ -55,5 +55,6 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 * Done :D
 
 
-## Wanna Support me ? You can buy me some coffee via [PayPal](paypal.me/haialipp).
-For more details you can see here [Conio.h Repo](https://github.com/zoelabbb/conio.h).
+# Wanna Support me ?
+* You can buy me some coffee via [PayPal](paypal.me/haialipp).
+* For more details you can see here [Conio.h Repo](https://github.com/zoelabbb/conio.h).
