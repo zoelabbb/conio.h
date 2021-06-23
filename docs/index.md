@@ -1,12 +1,36 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zoelabbb/conio.h/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This is a library conio.h for linux. Copy file and paste file conio.h on /usr/include/ but don't forget before you want copy paste on /usr/include/ you must open folder as administrator first !!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### List Function
+    cprintf
+    cscanf
+    gotoxy          
+    clrscr          
+    textcolor       
+    textbackground  
+    wherex         
+    wherey        
+    getch          
+    getche   
+    ungetch
+    kbhit          
+    putch           
+    putchar        
+    cputs         
+    clreol         
+    insline (not implemented)       
+    delline (not implemented)       
+    cgets   (not implemented)       
+    getpass (not implemented)        
+    gettext (not implemented)
+    _cprintf        
+    _cscanf         
+    _cputs          
+    _getche         
+    _kbhit          
+    _putch          
+    _ungetch
 
 ```markdown
 Syntax highlighted code block
