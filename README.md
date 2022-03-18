@@ -60,7 +60,10 @@ This is a library conio.h for linux. Copy file and paste file conio.h on `/usr/i
 * Close your IDE and open again
 * Done :D
 
+## Support Me
+Wanna Support me ? You can buy me some coffee via : 
+- [PayPal :coffee:](https://www.paypal.com/paypalme/haialipp).
+- [Other platforms :coffee:](https://www.buymeacoffee.com/ikoo).
 
-## Wanna Support me ? You can buy me some coffee via [PayPal :coffee:](https://www.paypal.com/paypalme/haialipp).
 For more details you can see here [Conio.h Repo](https://github.com/zoelabbb/conio.h).
 
