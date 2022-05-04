@@ -54,4 +54,23 @@ Some of it's functions which are often used :
 
 # Screenshoot Installation
 
-![conio h](https://user-images.githubusercontent.com/49254668/55953523-85b33c80-5c86-11e9-8568-71a638a9782e.png)
+### Step 1 :
+
+- Open terminal sudo apt-get update
+- sudo apt-get upgrade
+- sudo apt-get install git
+- git clone `https://github.com/zoelabbb/conio.h.git`or [Clone here](https://github.com/zoelabbb/conio.h.git)
+- cd conio.h
+
+> ![Copy & Paste](https://github.com/zoelabbb/conio.h/blob/master/src/img/Copy%20%26%20Paste.png)
+
+### Step 2 :
+
+- After you finish download file conio.h
+- Copy file conio.h :point_right: !! copy file not folder !!
+- Go to `/usr/include/`
+- Right click on folder `/usr/include/`
+- Choose Open as Administrator
+- Paste file `conio.h`
+- Close your IDE and open again
+- Done :D
