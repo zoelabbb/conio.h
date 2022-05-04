@@ -1,6 +1,9 @@
 /*
 
-Link : https://raw.githubusercontent.com/ramadhinolfski/cpackets/master/conio.h
+============ Source code ============
+Link        : https://raw.githubusercontent.com/ramadhinolfski/cpackets/master/conio.h
+GitHub      : https://github.com/zoelabbb/conio.h.git
+=====================================
 
 */
 

@@ -2,13 +2,16 @@
 
 ## What is #include <conio.h>
 
-If you look at the top of some C/C++ code, 90% of the time you'll see the line `#include <conio.h>`.
+If you see at the top of some C/C++ code, 90% of the time you'll see the line `#include <conio.h>`.
 
-We're including the file `<conio.h>` into our main program. Why would we do this ? So, the `<conio.h>` header file contains certain library functions that let us peform input and output operation.
+We're including the file `<conio.h>` into our main program. The `<conio.h>` header file contains certain library functions that peform input and output operation.
 
 `#include <conio.h>` is a header file, `conio` stands for console-input-output and (.h) is basically header file extension.
 
 It contains some functions and methods for formatting the output and getting input in the console.
+
+The error will be shown like below :
+![conio h fatal error](https://user-images.githubusercontent.com/49254668/55953523-85b33c80-5c86-11e9-8568-71a638a9782e.png)
 
 # List Function <conio.h>
 
@@ -52,25 +55,37 @@ Some of it's functions which are often used :
 - clrscr - Clears the screen.
 - getch - Get char entry from the console
 
-# Screenshoot Installation
+# How To Install Library #include <conio.h>
+
+This is a library `conio.h` for linux. Just copy file and paste file `conio.h` on `/usr/include/` but don't forget before you want copy paste on `/usr/include/` you must open folder as `ADMINISTRATOR` first !!
 
 ### Step 1 :
 
-- Open terminal sudo apt-get update
+- Open your terminal can as root
+- sudo apt-get update
 - sudo apt-get upgrade
 - sudo apt-get install git
-- git clone `https://github.com/zoelabbb/conio.h.git`or [Clone here](https://github.com/zoelabbb/conio.h.git)
+- git clone `https://github.com/zoelabbb/conio.h.git` or [Click to Clone Repos](https://github.com/zoelabbb/conio.h.git)
 - cd conio.h
 
 > ![Copy & Paste](https://github.com/zoelabbb/conio.h/blob/master/src/img/Copy%20%26%20Paste.png)
 
 ### Step 2 :
 
-- After you finish download file conio.h
-- Copy file conio.h :point_right: !! copy file not folder !!
+- After you finish download file `conio.h`
+- Copy file `conio.h` :point_right: !! JUST COPY FILE NOT FOLDER !!
 - Go to `/usr/include/`
 - Right click on folder `/usr/include/`
-- Choose Open as Administrator
+- Choose Open as Administrator (root)
 - Paste file `conio.h`
-- Close your IDE and open again
-- Done :D
+- Restart or Close your IDE and open it again
+- And done :D
+
+Congratuliation now you can using library `#include <conio.h>`.
+
+# Support Me
+
+Wanna Support me ? You can buy me some coffee via :
+
+- [PayPal :coffee:](https://www.paypal.com/paypalme/haialipp).
+- [Buy Coffee :coffee:](https://www.buymeacoffee.com/ikoo).
