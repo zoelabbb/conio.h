@@ -81,7 +81,7 @@ This is a library `conio.h` for linux. Just copy file and paste file `conio.h` o
 - Restart or Close your IDE and open it again
 - And done :D
 
-Congratuliation now you can using library `#include <conio.h>`.
+Now you can using library `#include <conio.h>`.
 
 # Support Me
 
