@@ -1,6 +1,10 @@
 .PHONY: install
 
 install: conio.h
-	test -f /usr/include/conio.h && echo "/usr/include/conio.h already exists"
-	test -f /usr/include/conio.h || cp conio.h /usr/include/conio.h
+	@test -f /usr/include/conio.h \
+		&& printf "/usr/include/conio.h already exists\n" \
+		|| true
+	@test -w /usr/include/ \
+		&& cp conio.h /usr/include/conio.h \
+		|| printf "Please run with elevated privileges\n" \
 
