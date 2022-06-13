@@ -71,13 +71,7 @@ This is a library `conio.h` for linux. Just copy file and paste file `conio.h` o
 > ![Copy & Paste](https://github.com/zoelabbb/conio.h/blob/master/src/img/Copy%20%26%20Paste.png)
 
 ### Step 2 :
-
-- After you finish download file `conio.h`
-- Copy file `conio.h` :point_right: !! JUST COPY FILE NOT FOLDER !!
-- Go to `/usr/include/`
-- Right click on folder `/usr/include/`
-- Choose Open as Administrator (root)
-- Paste file `conio.h`
+- `sudo make install`
 - Restart or Close your IDE and open it again
 - And done :D
 
