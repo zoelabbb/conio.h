@@ -11,7 +11,7 @@ We're including the file `<conio.h>` into our main program. The `<conio.h>` head
 It contains some functions and methods for formatting the output and getting input in the console.
 
 The error will be shown like below :
-![conio h fatal error](https://github.com/zoelabbb/conio.h/blob/master/src/img/fatalerror.png)
+![conio h fatal error](docs/fatalerror.png)
 
 # List Function <conio.h>
 
@@ -68,7 +68,7 @@ This is a library `conio.h` for linux. Just copy file and paste file `conio.h` o
 - git clone `https://github.com/zoelabbb/conio.h.git` or [Click to Clone Repos](https://github.com/zoelabbb/conio.h.git)
 - cd conio.h
 
-> ![Copy & Paste](https://github.com/zoelabbb/conio.h/blob/master/src/img/Copy%20%26%20Paste.png)
+> ![Copy & Paste](docs/Copy%20%26%20Paste.png)
 
 ### Step 2 :
 - `sudo make install`
