@@ -66,18 +66,18 @@ int getche() { return getch_echo(true); }
 int wherexy(int *x, int *y){
   printf("\e[6n");
 
-  if(getch() != '\x1B') return false;
-  if(getch() != '\x5B') return false;
+  if (getch() != '\x1B') return false;
+  if (getch() != '\x5B') return false;
 
   int
     in,
     ly = 0,
     lx = 0;
 
-  while((in = getch()) != ';')
+  while ((in = getch()) != ';')
     ly = ly * 10 + in - '0';  
 
-  while((in = getch()) != 'R')
+  while ((in = getch()) != 'R')
     lx = lx * 10 + in - '0';
 
   *x = lx;
