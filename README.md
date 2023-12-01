@@ -16,13 +16,35 @@ If you encounter an error like `conio.h: fatal error`, this library might be wha
 ## List of Functions in `<conio.h>`
 
 The library provides various functions, including:
+    
 - `cprintf`
 - `cscanf`
 - `gotoxy`
 - `clrscr`
 - `textcolor`
 - `textbackground`
-- and more...
+- `wherex`
+- `wherey`
+- `getch`
+- `getche`
+- `ungetch`
+- `kbhit`
+- `putch`
+- `putchar`
+- `cputs`
+- `clreol`
+- `insline` (not implemented)
+- `delline` (not implemented)
+- `cgets`  (not implemented)
+- `getpass` (not implemented)
+- `gettext` (not implemented)
+- `_cprintf`
+- `_cscanf`
+- `_cputs`
+- `_getche`
+- `_kbhit`
+- `_putch`
+- `_ungetch`
 
 Some commonly used functions:
 - `kbhit` - Checks if a key was pressed.
