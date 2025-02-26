@@ -276,7 +276,7 @@ public:
 
     int cputs(const char *str)
     {
-        printf(str);
+        printf("%s", str);
         return 0;
     }
 
